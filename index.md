@@ -40,8 +40,8 @@ For my research interests, I am broadly interested in various research topics in
 - The first prize in the Chinese Mathematics Competitions (Rank 5 in Shanghai, 2020)
 
 # Skills
-**Languages**: Python, C/C++, JavaScript, Java, SQL, Rust.
+**Languages**: Python, C/C++, JavaScript, Java, Rust.
 
 **Technical Skills**: 
-- React (frontend), SpringBoot (backend), Qt (software).
+- React (frontend), SpringBoot (backend), Qt (software), MySQL (database).
 - PyTorch (proficient), TensorFlow (able to read).
