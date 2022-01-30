@@ -24,11 +24,23 @@ For my academic performance:
 # Research Experience
 Currently, I'm doing research at [Thinklab](https://thinklab.sjtu.edu.cn) under the supervision of [Prof. Junchi Yan](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=en). 
 
-For my research interests, I am broadly interested in various research topics in machine learning, including representation learning, robust learning, combinatorial optimization, etc. In particular, my current research focus on graph structured data (GNNs), building models with enough expressiveness, scalability and generalizability to solve real problems. For some of my previous experience:
+For my research interests, I am broadly interested in various research topics in machine learning, including representation learning, robust learning, combinatorial optimization, etc. In particular, my current research focus on **graph structured data (GNNs)**, building models with enough expressiveness, scalability and generalizability to solve real problems. For some of my previous experience:
 -  Quantum Machine Learning<br /> <p align='right'>2020.09 - 2021.04</p>
--  Neural Relational Inference for Multi-dimensional Temporal Point Processes via GNNs<br /> <p align='right'>2021.06 - 2021.08</p>
--  On Adversarial Attack and Defense for Combinatorial Optimization (submitted to ICLR'22)<br /> <p align='right'>2021.08 - Present</p>
--  A Scalable Structure Learning Approach for GNNs (submitted to ICML'22)<br /> <p align='right'>2021.10 - Present</p>
--  On Collective Robustness of Bagging Against Data Poisoning<br /><p align='right'>2021.12 - Present</p>
+-  Neural Relational Inference for Multi-dimensional Temporal Point Processes via GNNs<br /> <p align="right">2021.06 - 2021.08</p>
+-  On Adversarial Attack and Defense for Combinatorial Optimization (submitted to ICLR'22)<br /> <p align="right">2021.08 - Present</p>
+-  A Scalable Structure Learning Approach for GNNs (submitted to ICML'22)<br /> <p align="right">2021.10 - Present</p>
+-  On Collective Robustness of Bagging Against Data Poisoning (submitted to ICML'22)<br /><p align="right">2021.12 - Present</p>
+
+# Selected Awards
+- Sensetime Fellowship (only 30 from national-wide, 2021)
+- Lixin Tang Scholarship (2020)
+- Huawei Fellowship (2021)
+- Zhiyuan Honor Scholarship (2021)
+- The first prize in the Chinese Mathematics Competitions (Rank 5 in Shanghai, 2020)
 
 # Skills
+**Languages**: Python, C/C++, JavaScript, Java, SQL, Rust.
+
+**Technical Skills**: 
+- React (frontend), SpringBoot (backend), Qt (software).
+- PyTorch (proficient), TensorFlow (able to read).
