@@ -26,7 +26,7 @@ For my academic performance:
 Currently, I'm doing research at [Thinklab](https://thinklab.sjtu.edu.cn) under the supervision of [Prof. Junchi Yan](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=en). 
 
 For my research interests, I am broadly interested in various research topics in machine learning, including representation learning, robust learning, combinatorial optimization, etc. In particular, my current research focus on **graph structured data (GNNs)**, building models with enough expressiveness, scalability and generalizability to solve real problems. For some of my previous experience:
--  Quantum Machine Learning<br /> <p align='right'>2020.09 - 2021.04</p>
+-  Quantum Machine Learning<br /> <div align='right'>2020.09 - 2021.04</div>
 -  Neural Relational Inference for Multi-dimensional Temporal Point Processes via GNNs<br /> <p align="right">2021.06 - 2021.08</p>
 -  On Adversarial Attack and Defense for Combinatorial Optimization (submitted to ICLR'22)<br /> <p align="right">2021.08 - Present</p>
 -  A Scalable Structure Learning Approach for GNNs (submitted to ICML'22)<br /> <p align="right">2021.10 - Present</p>
