@@ -26,11 +26,11 @@ For my academic performance:
 Currently, I'm doing research at [Thinklab](https://thinklab.sjtu.edu.cn) under the supervision of [Prof. Junchi Yan](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=en). 
 
 For my research interests, I am broadly interested in various research topics in machine learning, including representation learning, robust learning, combinatorial optimization, etc. In particular, my current research focus on **graph structured data (GNNs)**, building models with enough expressiveness, scalability and generalizability to solve real problems. For some of my previous experience:
--  Quantum Machine Learning (2020.09 - 2021.04)
--  Neural Relational Inference for Multi-dimensional Temporal Point Processes via GNNs (2021.06 - 2021.08)
--  On Adversarial Attack and Defense for Combinatorial Optimization (**submitted to KDD'22**, 2021.08 - Present)
--  A Scalable Structure Learning Approach for GNNs (**submitted to ICML'22**, 2021.10 - Present)
--  On Collective Robustness of Bagging Against Data Poisoning (**submitted to ICML'22**, 2021.12 - Present)
+-  Neural Relational Inference for Multi-dimensional Temporal Point Processes via GNNs (2021.06 - 2021.08).
+-  On Collective Robustness of Bagging Against Data Poisoning (**Accepted by ICML'22**, second author, 2021.12 - 2022.02).
+-  On Adversarial Attack and Defense for Combinatorial Optimization (submitted to NIPS'22, co-first author, 2021.08 - Present).
+-  A Scalable Structure Learning Approach for GNNs (submitted to NIPS'22,  second author, 2021.10 - Present). 
+-  Towards Debiased Learning and OOD Detection for Graph Data (submitted to NIPS'22, **first author**, 2022.02-Present).
 
 # Selected Awards
 - Sensetime Fellowship (only 30 from national-wide, 2021)
@@ -47,4 +47,4 @@ For my research interests, I am broadly interested in various research topics in
 - PyTorch (proficient), TensorFlow (able to read).
 
 # Academic Service
-I served as reviewer in ICML2022.
+I served as a reviewer in ICML2022.
