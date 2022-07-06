@@ -2,8 +2,8 @@
 I'm an undergraduate student (expected to graduate in 2023) from Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 
 For my academic performance:
-- GPA: 94.27/100 (or 4.15/4.3), Rank 1/120
-- A+ Courses: all specialized courses and all mathematical courses
+- GPA: 94.10/100 (or 4.12/4.3), Rank 1/120
+- Achieved A+ in more than 30 Courses.
 <details>
 <summary>Click to expand</summary>
 <ul>
@@ -11,6 +11,7 @@ For my academic performance:
 <li>(100/100) CS356: Operating System Projects (Spring 2021) <a href="https://github.com/Emiyalzn/CS356-Prj2-LinuxScheduler">[Project]</a></li>
 <li>(100/100) CS145: Computer Architecture Experiments (Spring 2021)</li> 
 <li>(100/100) PH070/PH071: College Physics(Honor) (Spring 2020/Fall 2020)</li>
+<li>(99/100) CS420: Machine Learning (Spring 2022) <a href="https://github.com/Emiyalzn/CS420-Sketch-Recognition">[Project]</a></li>
 <li>(98/100) CS158: Data Structure(Honor) (Spring 2020)</li>
 <li>(97/100) CS307: Operating System (Spring 2021)</li>
 <li>(96/100) CS359: Computer Architecture (Spring 2021)</li>
